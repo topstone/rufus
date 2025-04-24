@@ -322,7 +322,7 @@ msgstr "メガバイト"
 
 #. • MSG_029
 msgid "Default"
-msgstr "規定"
+msgstr "既定"
 
 #. • MSG_030
 #.
